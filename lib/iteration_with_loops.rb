@@ -8,7 +8,7 @@ def find_even_values(src)
       end
       ic += 1
     end
-  oc +=1
+  oc += 1
   end
 end
 
